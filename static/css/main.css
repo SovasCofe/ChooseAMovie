@@ -1,0 +1,28 @@
+/*HEADER*/
+
+.header__img {
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    z-index: 1000;
+    background: #c4bbf0;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+        box_shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+/*BODY*/
+
+.btn{
+    background-color: #363b4e;
+    color: #c4bbf0
+    }
+
+body{
+    background-color: #c4bbf0;
+    color:  #363b4e
+}
